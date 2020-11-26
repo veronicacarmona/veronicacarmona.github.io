@@ -1,0 +1,36 @@
+#TeAyudo{
+  color: rgb(239, 85, 29);
+  font-weight: bold;
+  font-size: 60px;
+}
+ .form-control{
+   font-weight: 600;
+ }
+
+.Participar{
+  background:url("../Imagenes/background_naranja5.png") no-repeat center;
+  background-position: left top;
+
+}
+
+ .formulario{
+   background:url("../Imagenes/huesos.png") no-repeat center;
+   background-position: right bottom;
+
+ }
+ .separacion7{
+   height: 14vh;
+   width: 100%;
+ }
+
+ .tiulosParticipar{
+   color: rgb(239, 85, 29);
+   font-weight: bold;
+
+ }
+ @media (max-width: 768px){
+   .Participar{
+     background:url("../Imagenes/background_naranja8.png") no-repeat center;
+     background-position: right center;}
+
+   }

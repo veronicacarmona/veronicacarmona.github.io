@@ -1,0 +1,58 @@
+
+
+body{
+  background:url("../Imagenes/background_naranja.png") no-repeat center;
+  background-position: right top;
+
+}
+
+
+@media (max-width:768px){
+  body{
+    background:url("../Imagenes/background_naranja2.png") no-repeat center;
+    background-position: right top;
+    }
+  .masMascotas{
+    content:url("../Imagenes/masMascotas2.png"); }
+
+}
+
+
+
+
+#parrafoPresentacion{
+  color: white;
+}
+
+
+#tituloPresentacion{
+  font-weight: 800;
+  color: white;
+}
+
+
+
+.Seccion3{
+  text-align: center;
+
+}
+
+.Ayudar{
+  padding-left: 110px;
+  padding-right: 110px;
+}
+
+.formulario{
+  padding-left: 110px;
+  padding-right: 110px;
+}
+h5{
+  font-weight: 700;
+  color: rgb(255, 88, 36);
+}
+
+
+
+hr{
+  border-color: rgb(239, 85, 29);
+}

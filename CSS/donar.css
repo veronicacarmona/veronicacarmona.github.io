@@ -1,0 +1,48 @@
+body{
+  background:url("../Imagenes/background_naranja6.png") no-repeat center;
+  background-position: left top;
+
+}
+@media (max-width: 768px){
+  body{
+    background:url("../Imagenes/background_naranja7.png") no-repeat center;
+    background-position: right top;
+  }
+
+
+}
+.donaciones{
+  z-index:-2;
+}
+
+#parrafoPresentacion{
+  color: white;
+}
+.tab-content{
+  border: 5px;
+}
+
+#tituloPresentacion{
+  font-weight: 800;
+  color: white;
+}
+.separacion7{
+  height: 30vh;
+  width: 100%;
+}
+.separacion8{
+  height: 35px;
+
+}
+.deposito{
+  font-weight: 600;
+}
+.button{
+  padding: 10px 10px;
+}
+hr{
+  border-color: rgb(239, 85, 29);
+}
+#donar{
+  font-weight: bold;
+}
